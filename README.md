@@ -7,17 +7,17 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+database
 
 ### Version Compatibility
 
 
   
-    * Database Table Partitioning Mod Oracle 11g 5.0 - 5.5, 5.4, 5.3
+* Database Table Partitioning Mod Oracle 11g 5.0 - 5.5, 5.4, 5.3
   
 
   
-    * Database Table Partitioning Mod Oracle 11g 3.0 - 5.3
+* Database Table Partitioning Mod Oracle 11g 3.0 - 5.3
   
 
 
@@ -49,5 +49,4 @@ None; no agent required
 
 
 ### Languages Used
-
 
